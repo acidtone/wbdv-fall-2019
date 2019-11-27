@@ -1,12 +1,12 @@
 # CPNT 265 - Business of the Web
 [Course Outline](CPNT_265.pdf)
 ## Assessments
-- Launching a Website (35%)
-  - [Design Document](assessments/assignment-1) (50%)
-  - Launched Website (50%)
 - Ecommerce Website (35%)
-  - Business Justification (40%)
-  - Build a Shopping Cart (60%)
+  - [Business Justification](assessments/assignment-1) (40%)
+  - [Build a Shopping Cart](assessments/assignment-2) (60%)
+- Launching a Website (35%)
+  - [Design Document](assessments/assignment-3) (50%)
+  - [Launched Website](assessments/assignment-4) (50%)
 - Portfolio Site (30%)
   - Develop a site (40%)
   - Create a git repo (40%)
