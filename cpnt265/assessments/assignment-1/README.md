@@ -11,6 +11,20 @@ This assignment is not handed in. It will be presented by your team to the class
 ## Directions
 Working in teams of 3 or 4 (depending on class-size), you will develop a business justification for building anEcommerce application for a small business.
 
+## Group Charter
+Assign the key roles and responsibilities for each group member in delivering the project for Assignments 1 and 2. After each entry write a short summary defining their role and what their responsibilities are in the project. This charter will serve as the reference for any group mediation that is required.
+
+Please submit your charter to Brightspace before the end of Day 1.
+
+### Potential Roles
+  - research
+  - copy writing
+  - frontend dev (be specific)
+  - backend dev (be specific)
+  - graphics
+  - devops
+  - etc
+
 ## Requirements
 - Select a small business that can be your client for the exercise. It could be an actual business, or your team could decide to define an entrepreneurial venture to sell products or services online.
 - Research the models and options available for designing, developing and hosting the application. 

@@ -12,12 +12,13 @@
   - Create a git repo (40%)
   - Presentation (20%)
 ## Schedule
-- Day 2: Thursday, Nov 28
+- Day 3: Thursday, Nov 29
   - Morning: Assignment 1 Presentations
-  - End of Day: Hand in Assignment 3
-- Day 3: Friday, Nov 29
-  - Afternoon: Assignment 2 Presentations
 - Day 4: Wednesday, Dec 4
+  - Afternoon: Assignment 2 Presentations
+- Day 5: Thursday, Dec 5
+  - End of Day: Hand in Assignment 3
+- Day 6: Friday Dec 6
   - 3pm: Hand in Assignment 4 - Team Website with SEO Features
 
 ## Course Resources
