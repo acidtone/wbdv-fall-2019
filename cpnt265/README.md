@@ -12,7 +12,7 @@
   - Create a git repo (40%)
   - Presentation (20%)
 ## Schedule
-- Day 3: Thursday, Nov 29
+- Day 3: Friday, Nov 29
   - Morning: Assignment 1 Presentations
 - Day 4: Wednesday, Dec 4
   - Afternoon: Assignment 2 Presentations
