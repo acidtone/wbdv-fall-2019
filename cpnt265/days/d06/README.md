@@ -16,3 +16,4 @@
 - Getting Feedback from Users
 
 ## Afternoon: Optional Lab Time
+- check with your group before you leave
