@@ -15,4 +15,4 @@
 - Testing Website Usability
 - Getting Feedback from Users
 
-## Open Lab Time
+## Afternoon: Optional Lab Time
