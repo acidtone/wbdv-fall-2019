@@ -8,5 +8,10 @@
 - Print styles
 
 ## Lecture Topics for the Last Week
+- DNS
+- IIFEs
+- SVG
+- Review
+  - Responsive Design
 
 ## Open Lab Time

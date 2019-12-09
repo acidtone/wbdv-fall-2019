@@ -1,0 +1,105 @@
+# Pincher Creek
+## Website Goal
+- To design a website that would encourage people to come visit the Town. It must have an ‘inviting’ look and feel. Colours and fonts are up to your discretion.
+
+## Site Map
+- Home
+- Residents
+    - Multipurpose Facility
+    - Pay Your Taxes Monthly
+    - Community Services Directory
+    - Living
+        - Pincher Creek 150
+        - Health Care
+        - Your Health and Safety
+        - Family and Community
+        - Support Services (FCSS)
+        - Pincher Creek Community
+        - Services Directory
+        - Real Estate Offices
+        - Education
+        - Religious Organizations
+        - Sports and Fitness
+        - Program Opportunities
+        - Volunteer
+    - Homes
+        - Fibre
+        - Housing
+        - Property Taxes
+        - Utilities
+    - OperationalServices
+        - Garbage Pick-Up
+        - Landfill
+        - Parking
+        - Recycling
+        - Streets
+    - RecreationFacilities
+        - Multi-Purpose Facility
+        - Memorial Community Centre Arena ▪ Municipal Library
+        - Town Hall Facilities
+        - School Facilities
+        - Community Hall
+        - Pincher Creek Curling Rink
+        - Community Recreation Centre
+        - Golf Course
+    - Business
+    - DoingBusiness
+        - Location
+        - Taxes
+        - Crime Rate
+    - BusinessDirectory
+    - Economic Development
+        - Economic Development
+        - Community Profile o 
+    - Invest&Development
+        - Wind Energy
+        - Agriculture
+        - Tourism
+        - Natural Gas
+        - Manufacturing
+        - Irrigation and Hydroelectricity 
+    - Visit
+        - Attractions and Lifestyle
+            - Arts and Culture
+            - Pioneer Place/Kootenai Brown Village 
+            - Lebel Mansion/Allied Arts Council 
+            - Windy Hollow Players
+            - Pincher Creek at Heritage Acres 
+        - Parks,Trails, Outdoor Facilities
+            - Outdoor Recreation
+            - Ornamental Parks
+            - Juan Teran Regional Park
+            - Sproule Field
+            - Lions Ball Park
+            - Soccer Fields
+            - Playgrounds
+            - Track and Field
+            - Tennis Courts
+            - Picnic Areas
+            - Walkway Systems
+            - Golf Course
+            - Municipal Campground
+    - Town Office
+    - LocalGovernment
+        - Town Council
+        - Boards and Committees ▪ 
+        - Council Minutes
+        - Municipal Elections
+    - Town Services
+        - Bylaws and Policies
+        - Town Lots For Sale
+        - Development Permits
+        - Departments and Services ▪ 
+        - Citizen Requests
+    - Town Information
+        - Mission and Vision
+        - Employment Opportunities
+        - Information Management
+        - Quarterly Reports
+        - Request for Proposals
+        - Contact Us
+    - Media Centre
+    - Public Notices (with posts)
+    - Events Calendar (either as posts or in a Calendar) o MunicipalCensus
+    - FinancialInformation
+    - Photo Gallery (slider/slideshow plugin with photos)

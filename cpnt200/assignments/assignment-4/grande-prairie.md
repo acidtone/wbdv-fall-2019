@@ -1,0 +1,71 @@
+# CCity of Grande Prairie
+
+## Directions
+The City of Grande Prairie, Alberta is looking for a new web site. Their current site is an older design and not responsive.
+
+They have the following requirements for their proof of concept:
+
+- design a website that would encourage people to visit and do business in the city. It has to have an ‘inviting’ look and feel. Colours and fonts are up to your discretion.
+  - For the sake of time, use images you find on the ​http://www.cityofgp.com​ web site and elsewhere on the web.
+- They would like the site map of the new site to look like this:
+  - Home
+  - About
+    - Economic Profile
+    - Location
+    - Maps
+    - Population
+    - History
+      - GP Milestones
+    - Jobs in GP
+    - Latest News (20 posts or more)
+    - Events (20 posts or more)
+    - Tourism
+    - Air Quality
+    - Facilities
+  - City Government
+    - Annexation
+    - City Projects
+    - Mayor and Council
+      - Greetings
+      - Council Members
+      - Boards and Committees
+      - Municipal Elections
+    - Property Tax
+    - City Services (20 pages/posts)
+    - City Departments (15 pages/posts)
+    - Media Releases (10 pages/posts)
+  - Residents
+    - Moving to GP
+    - Cost of Living
+    - Public Transit
+    - Education
+      - Public Schools
+      - Catholic Schools
+      - Francophone Schools
+    - Recreation & Culture
+    - Emergency Services
+    - Development
+  - Business
+    - Economic Profile
+    - Invest here
+    - Live here
+    - Purchasing
+    - Property Tax
+  - Visitors
+    - Arts & Culture
+      - Art Gallery
+      - Dinosaur Museum
+      - Public Library
+    - Recreation
+      - Coca Cola Centre
+      - Dave Barr
+      - Eastlink Centre
+      - Parks & Trails
+    - Emergency Services
+      - 911
+      - Fire Dept
+      - Poison Control
+      - RCMP
+    - Regional Tourism
+      - Discover the Peace
+      - Tourism Centre

@@ -1,0 +1,19 @@
+@import url('fonts.css');
+
+nav {
+  display: none;
+}
+
+main {
+  width: 80vw;
+  max-width: 75ch;
+  margin: auto;
+}
+
+dt {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+}

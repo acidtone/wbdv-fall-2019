@@ -1,0 +1,12 @@
+<%- include partials/header %>
+  <main>
+    <h1>Definitions</h1>
+    <p><a href="definitions/new">Add Definition</a></p>
+    <dl>
+      <% definitions.forEach(function(definition){ %>
+        <dt><%= definition.term %></dt>
+        <dd><%= definition.definition %></dd>
+      <% }) %>
+    </dl>
+  </main>
+  <%- include partials/footer %>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grid Layout</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      display: grid;
+      grid-template-columns: 3fr 1fr;
+      grid-gap: 0.5em;
+    }
+
+    header, footer {
+      grid-column: span 2;
+    }
+  </style>
+</head>
+<body>
+  <header>Header</header>
+  <main>Page Content
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime dicta voluptatum numquam illum quia laboriosam, praesentium, nisi deleniti velit iste amet alias beatae totam et dolores quas quidem, enim. Sequi quisquam repellendus fugiat recusandae minima quo alias velit, vel unde. Repudiandae eius natus ea, aspernatur modi nobis adipisci laudantium eum?</p></main>
+  <aside>Side Bar</aside>
+  <footer>&copy; 2019</footer>
+</body>
+</html>

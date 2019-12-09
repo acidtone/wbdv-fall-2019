@@ -1,0 +1,12 @@
+/* Global Styles */
+    body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    main {
+      max-width: 300px;
+      width: 80vw;
+      margin: auto;
+    }

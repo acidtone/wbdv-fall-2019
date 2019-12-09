@@ -1,0 +1,73 @@
+# Canada Olympic Park
+http://www.winsport.ca
+
+## Directions
+Canada Olympic Park is looking for a new web site design. The current site they have is an older design and not responsive.
+
+They have the following requirements for their proof of concept:
+- design a website that would encourage people utilize the TNRD’s Library System. It has to have an ‘inviting’ look and feel. Colours and fonts are up to your discretion.
+- For the sake of time, use images you find on the ​https://www.winsport.ca​ web site and elsewhere on the web.
+- They would like the site map of the new site to look like this:
+  - Canada Olympic Park (Home Page)
+  - Activities
+    - Winter
+      - Skiing
+      - Tube Park
+      - Public Bob Sleigh and Skeleton
+      - Snow School
+      - Public Skate
+      - Stick and Puck
+      - Shinny
+      - Hockey School
+      - Adult Rec Hockey
+    - Summer
+      - Summer Bob Sleigh
+      - Zip Line
+      - Mini Golf
+      - Mountain Bike
+      - Scenic Chairlift
+      - Mini Luge
+      - The Plunge
+      - Free Fall
+    - Hockey
+      - Rules and Regulations
+      - Adult Rec Hockey
+      - Public Skating
+  - Tickets and Passes
+    - Acura Tube Park
+    - Seasons passes
+    - Service Road Access
+    - What is RFID?
+    - Refund Policy
+  - Lessons and Camps
+    - Skate and Hockey Lessons
+    - Ski and Snowboard Lessons
+    - Holiday Camps
+    - Mountain Bike Lessons
+    - Girls Only Adult Leadership Program
+    - Know Before You Go
+    - Summer Camps
+    - Early Childhood Program
+    - Trampoline Program
+    - Winsport Academy
+    - School Programs
+    - Youth Team Builders
+    - School Partner Programs
+    - Sportball
+  - Athlete Development
+    - Sport Training
+    - CorFit
+    - Bob Niven Centre
+    - PerformanceTraining Centre
+    - Group23 Medical Clinic
+  - Events
+    - Winsport Events (15)
+  - Contact us
+    - Hours of Operation
+    - Join Our Team
+    - About Us
+    - Sponsors
+    - Supporters
+    - Train Conditions and Hours
+    - Policies
+    - Retail

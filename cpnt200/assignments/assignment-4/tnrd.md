@@ -1,0 +1,76 @@
+# Alberta Ministry of Agriculture
+
+## Directions
+The ​Thompson-Nicola Regional District (TNRD) of British Columbia​ is looking for a new web site for their library system. The current site they have is an older design and not responsive.
+
+They have the following requirements for their proof of concept:
+
+- design a website that would encourage people utilize the TNRD’s Library System. It has to have an ‘inviting’ look and feel. Colours and fonts are up to your discretion.
+  - For the sake of time, use images you find on the https://www.tnrl.ca/ web site and elsewhere on the web.
+- They would like the site map of the new site to look like this:
+  - TNRD Library System (Home Page)
+    - Our Branches 
+      - Ashcroft
+      - Barriere
+      - Blue River
+      - Bookmobile
+      - Cache Creek
+      - Chase
+      - Clearwater
+      - Clinton
+      - Kamloops
+      - Logan Lake
+      - Merritt
+      - North Kamloops
+      - Outreach Services
+      - Savona
+      - Administration
+    - About Us
+      - Jobs
+      - Volunteer
+      - Policies
+      - Intellectual Freedom
+      - Strategic Plan
+      - Tenders & RFP’s
+      - Surveys
+    - Programs & Events
+      - After School Club
+      - Author Talks
+      - Book Clubs
+      - Book Sales
+      - Children Special Events
+      - Computer Classes
+      - Contests
+      - Craft Club
+      - Family Playroom
+      - Family Storytime
+      - Lego Club
+      - Parent-Child Mother Goose
+      - Pre-School Storytime
+      - Story Dog
+      - Summer Reading Clubs
+      - Teen Programs
+      - Tiny Tunes
+      - Tweens on Wednesday
+    - Help
+      - Borrowing
+      - Donations
+      - FAQ
+    - Newly Added Titles
+      - Enter 12 titles with image, author, title, and summary for each
+    - Staff Picks
+      - Enter 12 titles with image, author, title, and summary for each
+    - On Order
+      - Enter 12 titles with image, author, title, and summary for each
+    - Kids & Teens
+      - Under 5
+        - Programming
+      - Kids Zone
+        - Programming
+        - Recommended Reads
+        - Homework Help
+      - Teens Only
+        - Programming
+        - Newly Added
+        - Recommended Reads
+        - Real Life

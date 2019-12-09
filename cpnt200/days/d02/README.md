@@ -1,0 +1,90 @@
+# Chapter 0: Environment setup
+## Local WP install
+- Alternatives to Wordpress
+  - Wix
+  - Squarespace
+  - GitHub Pages
+    - jekyll
+  - hexo
+  - static
+- requirements
+  - php
+  - mysql
+  - mysqladmin
+  - wordpress
+    - install wp
+- Local installation options
+  - install directly on your machine (not reccommended)
+  - XAMPP/MAMP
+  - Docker Desktop
+  - Local Flywheel
+  - Server Press
+- hash for 'password': `$P$B1shCzLv0hiowqH3vNwmuZ8Jeilh1Z1`
+
+## Remote Prep
+- AWS EC2
+- Deploy options
+  - FTP
+  - git deploy tools
+    - DeployHQ
+    - Netlify
+
+# PHP Primer
+- expressions
+  - code that returns a value
+- variables (values)
+  - coersion
+  - types
+    - string
+      - single or double quotes
+        - double: resolves variables and escaped whitespace
+    - number
+      - integers
+      - floats
+      - dates
+        - unix timestamp
+    - boolean
+    - null
+    - array
+      - indexed
+        - in js these are just arrays
+        - aka: a list
+      - associated
+        - a list of name/value pairs
+        - aka: an array
+    - objects
+      - aka: classes; not covered in this course... until it is
+      - in js, objects are nothing more than name/value pairs
+- operators
+  - assignment
+    - php: returns the value that was assigned (it's an expression)
+    - js: returns undefined 
+  - string
+    - concatenation
+      - js: the operator for concatenation and add is '+'
+      - php: concatenation operator is '.'
+  - number
+    - arithmetic
+      - works the same in js and php (mostly)
+  - logical
+    - AND (or &&)
+    - OR (or ||)
+    - NOT ( or !)
+  - comparison
+    - equal: ==
+    - identical: ===
+    - not equal: !=
+    - not identical: !==
+- conditionals
+  - if
+  - else if
+  - else
+- loops
+  - foreach
+    - can pass both key and value to loop: `foreach(array as $key => 'value')`
+  - while
+  - for
+- include() and require()
+  - used for PHP's version of template partials
+- functions
+
