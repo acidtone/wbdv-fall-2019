@@ -45,3 +45,6 @@ lerna-debug.log*
 
 # Output of 'npm pack'
 *.tgz
+
+# Wordpress bs
+wp-content/themes/twenty*/
