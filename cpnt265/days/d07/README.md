@@ -4,10 +4,11 @@
 - Points to focus on
   - Who's the audience?
     - SAIT staff
-    - Simple Simple
-    - VOG
-    - Group Hop
-    - Flip Advertizing
+    - [Simple Simple](https://simplesimple.ca/)
+    - [VOG](https://vogcalgaryappdeveloper.com/)
+    - [Group Hop](https://grouphoptravel.com/)
+      - two employees on LinkedIn
+    - [Flip Advertizing](https://thinkflipp.com/)
   - Challenges and obstacles
 
 ## DNS Enumeration
