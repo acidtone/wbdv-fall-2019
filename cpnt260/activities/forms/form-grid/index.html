@@ -7,7 +7,13 @@
   <link rel="stylesheet" href="styles.css">
   <style>
     form {
+      display: grid;
+      grid-template-columns: 10ch 1fr;
+      grid-row-gap: 1em;
+    }
 
+    .span2 {
+      grid-column-end: span 2;
     }
 
     textarea {

@@ -1,11 +1,10 @@
 const express = require('express');
 const path = require('path');
-
 const app = express();
 
 app.set('view engine','ejs'); // allows us to exclude the file extension
 
-app.use(express.urlencoded({ extended: false }))
+app.use(express.urlencoded({extended: true}));
 
 app.get('/', function(request, response){
   response.render('index');
